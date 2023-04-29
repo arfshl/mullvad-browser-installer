@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Installing Mullvad Browser...
+echo "Installing Mullvad Browser..."
 cd ~/
 wget https://mullvad.net/en/download/browser/linux64/latest -P ~/
 mv latest mullvad-browser.tar.xz
