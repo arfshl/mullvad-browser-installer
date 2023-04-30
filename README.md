@@ -7,5 +7,5 @@ Mullvad Browser installer script
 ## Alternative method
 - Flatpak
    
-   flatpak install flathub net.mullvad.MullvadBrowser
+      flatpak install flathub net.mullvad.MullvadBrowser
 
