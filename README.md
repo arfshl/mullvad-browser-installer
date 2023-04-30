@@ -1,5 +1,11 @@
 # mullvad-browser-installer
 Mullvad Browser installer script
-## Install Tor Browser
+## Install Mullvad Browser
 
-    sudo wget https://raw.githubusercontent.com/arfshl/mullvad-browser-installer/main/install.sh -P ~/Downloads && cd ~/Downloads && sudo sh install.sh && cd ~/Downloads && rm install.sh
+    wget https://raw.githubusercontent.com/arfshl/mullvad-browser-installer/main/install.sh -P ~/ && cd ~/ && sudo sh install.sh
+
+## Alternative method
+- Flatpak
+   
+   flatpak install flathub net.mullvad.MullvadBrowser
+
