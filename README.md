@@ -1,5 +1,5 @@
 # mullvad-browser-installer
-Mullvad Browser installer script
+Mullvad Browser for Linux installer script
 ## Install Mullvad Browser
 
     wget https://raw.githubusercontent.com/arfshl/mullvad-browser-installer/main/install.sh -P ~/ && sudo sh ~/install.sh
