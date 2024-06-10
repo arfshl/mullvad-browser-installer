@@ -4,6 +4,11 @@ Mullvad Browser for Linux installer script
 
     wget https://raw.githubusercontent.com/arfshl/mullvad-browser-installer/main/install.sh -P ~/ && sudo sh ~/install.sh
 
+### Local Install (At home directory)
+
+    wget https://raw.githubusercontent.com/arfshl/mullvad-browser-installer/main/install.sh -P ~/ && sudo sh ~/install.sh
+
+
 ## Updating Mullvad Browser
 [Tor Browser Manual](https://tb-manual.torproject.org/updating)
 ## Removing Mullvad Browser
