@@ -6,5 +6,5 @@ tar xvf /opt/mullvad-browser.tar.xz
 chmod -R /opt/mullvad-browser
 cd /opt/mullvad-browser
 sudo chmod +x start-mullvad-browser.desktop
-sudo ./start-mullvad-browser.desktop --register-app
+./start-mullvad-browser.desktop --register-app
 rm ~/install.sh /opt/mullvad-browser.tar.xz
