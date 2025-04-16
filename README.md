@@ -1,3 +1,5 @@
+#### Moved to https://github.com/arfshl/my-tarball-installer
+
 # mullvad-browser-installer
 Mullvad Browser for Linux installer script
 ## Install Mullvad Browser
